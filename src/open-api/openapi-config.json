@@ -1,0 +1,8 @@
+{
+  "schemaFile": "https://petstore3.swagger.io/api/v3/openapi.json",
+  "apiFile": "emptyApi.ts",
+  "apiImport": "emptyApi",
+  "outputFile": "apiCodeGen.ts",
+  "exportName": "apiCodeGen",
+  "hooks": true
+}
